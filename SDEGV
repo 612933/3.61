@@ -1,0 +1,9 @@
+1.
+yes 
+we cant overload a method with different return types but we can do it in c++
+There are two ways to overload the method in java
+   By changing number of arguments
+   By changing the data type
+        while  method calling , depending on input parameters it will select which method to excute. It will not check the return type 
+        during the method calling. we can overlaod a method by 2 types ,whatever be the return type.
+        
